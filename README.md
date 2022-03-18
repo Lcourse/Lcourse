@@ -2,7 +2,7 @@
 
 - 🌱 Estudando Desenvolvimento Web 2022
 - 💬 Contate me no email: lucasetf@gmail.com
-- 😄 Pronouns: Ele/Dele
+
 
 <div align="center">
   <a href="https://github.com/Lcourse">
