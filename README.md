@@ -5,6 +5,8 @@
 
 ![Lcourse GitHub stats](https://github-readme-stats.vercel.app/api?username=Lcourse&show_icons=true&theme=synthwave)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lcourse&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Tecnologias que eu estou aprendendo com o Curso de Desenvolvimento Web 2022 na UDEMY 🖤
 
 <div style="display: inline_block"><br/>
