@@ -1,4 +1,4 @@
-## Olá, me chamo Lucas
+## Olá, me chamo Lucas ✌️
 
 - 🌱 Estudando Desenvolvimento Web 2022
 - 💬 Contate me no email: lucasetf@gmail.com
