@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Lcourse ✌️
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ourcourse)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/savethxcourse)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/savethatcourse)
 
 ![Lcourse GitHub stats](https://github-readme-stats.vercel.app/api?username=Lcourse&show_icons=true&theme=synthwave)
