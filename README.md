@@ -1,13 +1,13 @@
 ### Olá! Eu sou o Lcourse ✌️
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/savethxcourse)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ourcourse)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/savethatcourse)
 
 ![Lcourse GitHub stats](https://github-readme-stats.vercel.app/api?username=Lcourse&show_icons=true&theme=radical)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lcourse&layout=compact&langs_count=7&theme=radical"/>
 
-### 🍎 Tecnologias que eu estou aprendendo 🍎 
+### 🍎 Tecnologias que estou aprendendo 🍎
 
 <div style="display: inline_block"><br/>
 <img align="center" alt=html5 src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -25,10 +25,7 @@
 <img align="center" alt=html5 src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img align="center" alt=html5 src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 
-
 </div><br/>
-
-
 
 Apaixonado por tecnologia.
 
