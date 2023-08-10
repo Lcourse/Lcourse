@@ -32,3 +32,5 @@ Apaixonado por tecnologia.
 ### Entre em contato: 😼
 
 - Email : lucasetf@gmail.com
+
+![snake gif](https://github.com/Lcourse/Lcourse/blob/output/github-contribution-grid-snake.svg)
